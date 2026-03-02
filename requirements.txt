@@ -1,4 +1,7 @@
-requests
+fastapi
+httpx
+python-levenshtein
+apscheduler
+pydantic
+pydantic-settings
 python-dotenv
-fuzzywuzzy
-python-Levenshtein
